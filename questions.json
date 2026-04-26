@@ -163,7 +163,7 @@
       "questions": [
         {
           "number": 1,
-          "question": "Určite, v ktorých úsekoch schémy vyvedenia výkonu z JE sú použité tzv. „zapuzdrené vodiče“:",
+          "question": "Určite, v ktorých úsekoch schémy vyvedenia výkonu z JE sú použité tzv. zapuzdrené vodiče:",
           "options": {
             "A": "medzi generátorom a blokovým transformátorom",
             "B": "medzi blokovým transformátorom a vývodovým odpojovačom",
@@ -366,6 +366,327 @@
             "B": "práci pomocných cirkulačných čerpadiel (PCČ), ktoré nabehnú od výpadku hlavných cirkulačných čerpadiel (HCČ)",
             "C": "zatvoreným hlavným uzatváracím armatúram (HUA) na horúcich častiach slučiek I.O.",
             "D": "práci havarijných systémov chladenia AZ reaktora"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "Definujte základnú prevádzkovú filozofiu pri určovaní dovolenej úrovne tepelného výkonu reaktora v normálnych, prechodových a havarijných režimoch:",
+          "options": {
+            "A": "nepripustenie tavenia paliva a súčasne vylúčenie krízy varu na povrchu paliva",
+            "B": "nepripustenie tavenia koša AZ reaktora",
+            "C": "vylúčenie krízy varu na povrchu vyhoreného paliva v BSVP",
+            "D": "neprekročenie maximálneho vypočítaného lineárneho zaťaženia palivového prútika"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Pri práci bloku na nominálnom výkone musia byť v prevádzke:",
+          "options": {
+            "A": "všetky slučky I.O.",
+            "B": "aspoň 2 slučky I.O., pričom to však nesmú byť 2 slučky vedľa seba",
+            "C": "minimálne 4 slučky I.O.",
+            "D": "aspoň 3 slučky I.O. a aspoň jedna musí byť v horúcej rezerve"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 6,
+          "question": "Pri prevádzke bloku s jedným turbogenerátorom je výkon reaktora:",
+          "options": {
+            "A": "cca 55 % Nnom",
+            "B": "minimálne 60 % Nnom",
+            "C": "cca 100 % Nnom",
+            "D": "maximálne 32 % Nnom"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 7,
+          "question": "Určite spôsob ako sa odvádza zvyškový výkon reaktora, keď je blok odstavený v horúcej rezerve:",
+          "options": {
+            "A": "cez PSK do HK a cez RS 4,4/0,7 MPa do kolektora 0,7 MPa",
+            "B": "cez PSA alebo PV PG",
+            "C": "cez PV PG alebo PSK do HK",
+            "D": "cez PSA alebo PSK do HK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 8,
+          "question": "Určite, akým spôsobom sa po vyčerpaní zásoby reaktivity na vyhorenie predĺži prevádzka bloku o cca 25 dní:",
+          "options": {
+            "A": "súčasným využívaním teplotného a výkonového koeficienta reaktivity na konci kampane",
+            "B": "využívaním iba výkonového koeficienta reaktivity",
+            "C": "využívaním iba tlakového koeficienta reaktivity",
+            "D": "využívaním bublinkového koeficienta pri teplote primárneho okruhu menej ako 300 °C"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 9,
+          "question": "Vyberte spôsob, akým sa vykonáva plánované znižovanie výkonu reaktorového bloku do odstavenia druhého TG:",
+          "options": {
+            "A": "automaticky – spoluprácou hlavných regulátorov bloku ARM a TCS",
+            "B": "stlačením tlačítka AO-3",
+            "C": "postupným zasúvaním jednotlivých kaziet HRK do AZ reaktora v ručnom režime",
+            "D": "priebežne – vplyvom vyhorevania paliva"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 10,
+          "question": "Vyznačte, ktoré zariadenie sekundárneho okruhu nie je súčasťou technologickej trasy v režime vodovodného dochladzovania I.O.:",
+          "options": {
+            "A": "hlavný kondenzátor turbíny",
+            "B": "min. 1 polovica HPK",
+            "C": "dochladzovacie čerpadlo",
+            "D": "technologický kondenzátor",
+            "E": "napájacia nádrž"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 11,
+          "question": "Začiatok fyzikálneho spúšťania je totožný:",
+          "options": {
+            "A": "s nábehom reaktora na kritický stav po výmene paliva",
+            "B": "so zavezením externého neutrónového zdroja",
+            "C": "s uzavretím a utesnením reaktora",
+            "D": "s naplnením aktívnej zóny H2O a H3BO3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 12,
+          "question": "Definujte energetické spúšťanie jadrovej elektrárne:",
+          "options": {
+            "A": "postupné zvyšovanie výkonu RB na dovolený výkon spojené so skúškami zariadení na predpísaných výkonových hladinách",
+            "B": "experimentálne overenie vypočítaných hodnôt neutrónovo-fyzikálnych charakteristík reaktora pre danú zavážku paliva",
+            "C": "prifázovanie turbogenerátora na sieť",
+            "D": "kompletné spustenie odstavenenej elektrárne na nominálny výkon bez skúšok"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 13,
+          "question": "Pri plánovanom zvyšovaní výkonu RB pracujú hlavné regulátory nasledovne:",
+          "options": {
+            "A": "ARM v režime T, TCS v automatickom zvyšovaní výkonu TG s navoleným cieľovým výkonom a trendom zvyšovania výkonu",
+            "B": "ARM v režime N, TCS v automatickom zvyšovaní výkonu TG s navoleným cieľovým výkonom a trendom zvyšovania výkonu",
+            "C": "ARM v ručnom režime, TCS v automatickom zvyšovaní výkonu TG s navoleným cieľovým výkonom a trendom zvyšovania výkonu",
+            "D": "ARM v režime N, TCS v režime P"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 14,
+          "question": "Určite pri akom výkone reaktora sa fázuje prvý TG počas nábehu bloku:",
+          "options": {
+            "A": "cca 20 % Nnom",
+            "B": "30 % Nnom",
+            "C": "10 % Nnom",
+            "D": "cca 5 % Nnom"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 15,
+          "question": "Určite, koľko slučiek musí byť prevádzkyschopných v režime výmeny paliva:",
+          "options": {
+            "A": "dve slučky (jedna pracovná a jedna rezervná)",
+            "B": "žiadna",
+            "C": "jedna slučka",
+            "D": "všetkých šesť slučiek"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 16,
+          "question": "Určite, kam sa ukladá vyhorené palivo po vybratí z reaktora pri výmene paliva:",
+          "options": {
+            "A": "zavážacím strojom do bazéna skladovania vyhoreného paliva pri reaktore",
+            "B": "v špeciálnych kontajneroch do medziskladu vyhoreného paliva v lokalite Bohunice",
+            "C": "na regionálne úložisko RAO Mochovce",
+            "D": "zavážacím strojom do bazéna výmeny"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 17,
+          "question": "Vyberte správny spôsob doplňovania I.O. počas výmeny paliva:",
+          "options": {
+            "A": "chladivom s minimálne odstavenou koncentráciou H3BO3 pre výmenu paliva",
+            "B": "čistým kondenzátom",
+            "C": "chladivom s koncentráciou H3BO3 min. 40 g/kg H2O",
+            "D": "demineralizovanou vodou"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 18,
+          "question": "Určite, ktorá možnosť odpovedá definícii abnormálnej prevádzky:",
+          "options": {
+            "A": "abnormálna prevádzka je prevádzkový stav odchyľujúci sa od normálnej prevádzky, ktorého výskyt sa predpokladá najmenej raz za životnosť zariadenia, pričom s ohľadom na zodpovedajúce projektové opatrenia nespôsobí významné poškodenie komponentov dôležitých pre JB ani nepovedie k havarijným podmienkam",
+            "B": "abnormálna prevádzka je každý stav bloku okrem nominálneho stavu, keď je výkon reaktora 100 % Nnom, pracuje všetkých 6 slučiek I.O., oba TG na II.O. a pre prevádzku bloku neexistuje žiadne obmedzenie vyplývajúce z LaP",
+            "C": "abnormálna prevádzka je charakterizovaná porušením pokrytia PČ alebo porušením integrity I.O. alebo porušením LaP",
+            "D": "abnormálna prevádzka sú také odchýlky od normálnej prevádzky, ktoré zahrňujú projektové a nadprojektové havárie"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 19,
+          "question": "Pri výpadku jedného HCČ zo šiestich pracujúcich nastane:",
+          "options": {
+            "A": "ROM pomocou AO3 znižuje a obmedzuje výkon reaktora pod 78 % Nnom",
+            "B": "ARM v režime N znižuje výkon reaktora o 25 % okamžitého výkonu",
+            "C": "ARM sa automaticky odpojí od výpadku TG a výkon znižuje nepretržite AO-3 až do odstavenia reaktora",
+            "D": "TCS pomocou obmedzovača rýchlosti zaťaženia zníži výkon TG a ARM podľa tlaku v HPK upraví výkon reaktora",
+            "E": "operátor okamžite ručne zníži výkon reaktora o 30 % a potom ho stabilizuje na novej úrovni pomocou ARM"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 20,
+          "question": "Veľká deformácia vývinu energie v reaktore je dôsledkom nasledovnej prevádzkovej udalosti:",
+          "options": {
+            "A": "pádu kazety HRK do AZ",
+            "B": "výpadku čerpadla systému normálneho doplňovania a bórovej regulácie",
+            "C": "kompenzovateľného úniku chladiva z I.O.",
+            "D": "výpadku čerpadiel vloženého okruhu chladenia pohonov HRK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 21,
+          "question": "Udalosť nekompenzovateľný únik chladiva I.O. vedie k:",
+          "options": {
+            "A": "odstaveniu reaktora AO-1 a k zapôsobeniu SIS",
+            "B": "odstaveniu reaktora po výpadku TG",
+            "C": "odstaveniu reaktora pomocou AO-1 bez činnosti SIS",
+            "D": "nábehu superhavarijných napájacích čerpadiel"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 22,
+          "question": "K vytvoreniu signálu hromadný AZR dochádza pri:",
+          "options": {
+            "A": "strate pracovného napájania na troch zo štyroch rozvodní nezaisteného napájania BBA-BBD",
+            "B": "úplnej strate napájania na pracovných a rezervných rozvádzačoch napájania 6 kV",
+            "C": "odpojení rozvádzačov 6 kV II. kategórie zaisteného napájania od nezaisteného",
+            "D": "vypnutí oboch generátorových vypínačov a súčasnom pripojení dieselgenerátorov k rozvádzačom II. kategórie zaisteného napájania"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 23,
+          "question": "Po odpojení štyroch HCČ zo šiestich pracujúcich od napájania nastane:",
+          "options": {
+            "A": "automatické odstavenie reaktora pomocou AO-1",
+            "B": "automatické odstavenie reaktora pomocou AO-2 s prechodom na AO-1",
+            "C": "zníženie výkonu reaktora na jednu tretinu nominálneho a práca bloku s neúplným počtom slučiek",
+            "D": "činnosť odpojených HCČ je nahradená činnosťou príslušných PCČ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 24,
+          "question": "Vyznačte nesprávnu činnosť po havarijnom zatvorení RZV jednej z dvoch pracujúcich turbín na EMO12:",
+          "options": {
+            "A": "operátor ručne znižuje výkon reaktora na 50 % Nnom",
+            "B": "TCS na pracujúcej TG zvýši výkon na maximálny",
+            "C": "ARM znižuje výkon reaktora, ak bol v automatickom režime",
+            "D": "PSK otvára a reguluje tlak v HPK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 25,
+          "question": "Pri aktivácii signálu roztrhnutie parovodu PG1 nastane:",
+          "options": {
+            "A": "odpojenie PG1 po vode a pare a vypnutie HCČ1",
+            "B": "odpojenie všetkých PG po vode a pare a vypnutie všetkých HCČ",
+            "C": "odpojenie PG1,3,5 po vode a pare",
+            "D": "vypnutie všetkých HCČ"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 26,
+          "question": "Vyberte správny postup pri výpadku jednej z dvoch pracujúcich dvojíc kondenzátnych čerpadiel bez nábehu rezervy:",
+          "options": {
+            "A": "automatika MEDZA II zníži výkon TG",
+            "B": "plynulo sa odstaví blok pomocou AO-3 s výdržami 10 min",
+            "C": "ochrany TG zatvoria rýchlozáverné ventily príslušnej TG",
+            "D": "operátor ručne zníži výkon TG na 85 MW"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 27,
+          "question": "Určite činnosť personálu pri výpadku všetkých ENČ bez nábehu rezervy:",
+          "options": {
+            "A": "sleduje len správnosť práce ochrán, blokád a automatik, zabezpečí dostatok vody v PG pomocou HNČ a vykonáva činnosti spojené so stabilizáciou bloku",
+            "B": "odstaví pracujúce turbíny tlačítkom AO-1",
+            "C": "odstaví blok pomocou AO-3",
+            "D": "nabiehajú havarijné napájacie čerpadlá a rýchlo znižuje výkon na oboch turbínach"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 28,
+          "question": "Prínosom predpisov pre riešenie núdzových stavov je:",
+          "options": {
+            "A": "nepotreba okamžitého identifikovania udalosti",
+            "B": "okamžitá správna identifikácia udalosti operatívnym personálom",
+            "C": "okamžité otvorenie správneho predpisu podľa druhu udalosti",
+            "D": "okamžitá znalosť priebehu udalosti"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 29,
+          "question": "Predpisy pre riešenie núdzových stavov riešia stavy:",
+          "options": {
+            "A": "končiace odstavením bloku s AO-1/2",
+            "B": "končiace výpadkom jedného TG",
+            "C": "končiace výpadkom jedného HCČ",
+            "D": "končiace odstavením bloku s AO-3"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 30,
+          "question": "Určite, v ktorom predpise pre riešenie núdzových stavov sa vykonáva prvotná diagnostika stavu bloku:",
+          "options": {
+            "A": "E-0",
+            "B": "ES-0.0",
+            "C": "FR-S.1",
+            "D": "E-1"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 31,
+          "question": "Určite, na aké základné fázy delíme priebeh ťažkej havárie JE:",
+          "options": {
+            "A": "fáza in-vessel, t.j. priebeh ťažkej havárie do poškodenia TNR a fáza ex-vessel, t.j. priebeh ťažkej havárie po poškodení TNR",
+            "B": "počiatočná, stredná a konečná fáza ťažkej havárie",
+            "C": "fáza in-vessel, t.j. priebeh ťažkej havárie do porušenia HZ a fáza ex-vessel, t.j. priebeh ťažkej havárie po porušení HZ",
+            "D": "priebeh ťažkej havárie nemožno dopredu predpokladať, a preto ho ani nie je možné deliť na nejaké fázy"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 32,
+          "question": "Akú skupinu dejov prebiehajúcich počas ťažkej havárie označujeme pojmom ex-vessel:",
+          "options": {
+            "A": "deje, ku ktorým dochádza po zlyhaní steny TNR a výrone taveniny do betónovej šachty reaktora, resp. do kontajmentu",
+            "B": "odhaľovanie AZ, oxidáciu pokrytia paliva, tavenie paliva a relokáciu taveniny AZ na dno TNR",
+            "C": "výbuchy vodíka v kontajmente",
+            "D": "procesy odohrávajúce sa mimo kontajment reaktora v okolí JE po úniku značného množstva radiácie"
           },
           "correct_answer": "A"
         }
