@@ -1,6 +1,69 @@
 {
   "chapters": [
     {
+      "chapter_id": "1.2",
+      "chapter_title": "Primárna časť JE",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Medzi vnútroreaktorové časti nepatrí:",
+          "options": {
+            "A": "horný blok",
+            "B": "dno šachty reaktora",
+            "C": "šachta reaktora",
+            "D": "blok ochranných rúr"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Tepelný výkon reaktora VVER-440 typ V-213 je:",
+          "options": {
+            "A": "1471 MWt",
+            "B": "3500 MWt",
+            "C": "1735 MWt",
+            "D": "3000 MWt"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Pracovný tlak v primárnom okruhu je približne:",
+          "options": {
+            "A": "12,3 MPa",
+            "B": "8,3 MPa",
+            "C": "15,6 MPa",
+            "D": "10,8 MPa"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "V aktívnej zóne reaktora sa počas nominálnej prevádzky bloku nachádza:",
+          "options": {
+            "A": "312 pracovných palivových kaziet a 37 kaziet HRK",
+            "B": "310 pracovných palivových kaziet a 36 kaziet HRK",
+            "C": "210 pracovných palivových kaziet a 49 kaziet HRK",
+            "D": "210 pracovných palivových kaziet a 36 kaziet HRK",
+            "E": "224 pracovných palivových kaziet a 42 kaziet HRK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Počas nominálnej prevádzky je reaktor zaplnený chladivom:",
+          "options": {
+            "A": "po snímače ukazovateľov polohy kaziet HRK",
+            "B": "po horný okraj koša aktívnej zóny",
+            "C": "po horný okraj horúcich nátrubkov tlakovej nádoby reaktora",
+            "D": "po hlavnú deliacu rovinu reaktora",
+            "E": "po spodný okraj puzdra pohonov HRK"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
       "chapter_id": "1.3",
       "chapter_title": "Sekundárna časť JE",
       "questions": [
@@ -95,69 +158,6 @@
       ]
     },
     {
-      "chapter_id": "1.2",
-      "chapter_title": "Primárna časť JE",
-      "questions": [
-        {
-          "number": 1,
-          "question": "Medzi vnútroreaktorové časti nepatrí:",
-          "options": {
-            "A": "horný blok",
-            "B": "dno šachty reaktora",
-            "C": "šachta reaktora",
-            "D": "blok ochranných rúr"
-          },
-          "correct_answer": "A"
-        },
-        {
-          "number": 2,
-          "question": "Tepelný výkon reaktora VVER-440 typ V-213 je:",
-          "options": {
-            "A": "1471 MWt",
-            "B": "3500 MWt",
-            "C": "1735 MWt",
-            "D": "3000 MWt"
-          },
-          "correct_answer": "A"
-        },
-        {
-          "number": 3,
-          "question": "Pracovný tlak v primárnom okruhu je približne:",
-          "options": {
-            "A": "12,3 MPa",
-            "B": "8,3 MPa",
-            "C": "15,6 MPa",
-            "D": "10,8 MPa"
-          },
-          "correct_answer": "A"
-        },
-        {
-          "number": 4,
-          "question": "V aktívnej zóne reaktora sa počas nominálnej prevádzky bloku nachádza:",
-          "options": {
-            "A": "312 pracovných palivových kaziet a 37 kaziet HRK",
-            "B": "310 pracovných palivových kaziet a 36 kaziet HRK",
-            "C": "210 pracovných palivových kaziet a 49 kaziet HRK",
-            "D": "210 pracovných palivových kaziet a 36 kaziet HRK",
-            "E": "224 pracovných palivových kaziet a 42 kaziet HRK"
-          },
-          "correct_answer": "A"
-        },
-        {
-          "number": 5,
-          "question": "Počas nominálnej prevádzky je reaktor zaplnený chladivom:",
-          "options": {
-            "A": "po snímače ukazovateľov polohy kaziet HRK",
-            "B": "po horný okraj koša aktívnej zóny",
-            "C": "po horný okraj horúcich nátrubkov tlakovej nádoby reaktora",
-            "D": "po hlavnú deliacu rovinu reaktora",
-            "E": "po spodný okraj puzdra pohonov HRK"
-          },
-          "correct_answer": "A"
-        }
-      ]
-    },
-    {
       "chapter_id": "1.4",
       "chapter_title": "Elektrická časť JE",
       "questions": [
@@ -229,6 +229,168 @@
             "E": "spätným tokom výkonu do generátora"
           },
           "correct_answer": "A"
+        },
+        {
+          "number": 7,
+          "question": "Určite, ktoré zo zariadení označených na schéme je hlavný generátor:",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 8,
+          "question": "Vyberte správnu kombináciu parametrov hlavného generátora:",
+          "options": {
+            "A": "výkon 255 MW / napätie 15,75 kV / otáčky 3000/min",
+            "B": "výkon 440 MW / napätie 6,3 kV / otáčky 3000/min",
+            "C": "výkon 250 MW / napätie 15,75 kV / otáčky 1500/min",
+            "D": "výkon 220 MW / napätie 110 kV / otáčky 2000/min",
+            "E": "výkon 235 MW / napätie 6,3 kV / otáčky 3000/min"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 9,
+          "question": "Určite, u ktorej elektrickej veličiny bude zaregistrovaná najväčšia zmena a aký smer v následne opísanom prevádzkovom stave: „generátor pracuje prifázovaný na elektrickú sieť v prebudenom stave a zmenšíme budiaci prúd“:",
+          "options": {
+            "A": "zníži sa dodávaný jalový výkon",
+            "B": "zvýši sa dodávaný činný výkon",
+            "C": "zvýši sa dodávaný jalový výkon",
+            "D": "zvýši sa prúd odoberaný z generátora"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 10,
+          "question": "Z uvedených možností vyberte plyn, ktorý je dodávaný plynovým hospodárstvom generátora za účelom chladenia vnútorných častí generátora:",
+          "options": {
+            "A": "vodík",
+            "B": "dusík",
+            "C": "kysličník uhličitý",
+            "D": "kysličník uholnatý"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 11,
+          "question": "Určite, ktoré zo zariadení označených na schéme je pracovný transformátor vlastnej spotreby:",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 12,
+          "question": "Vyberte veľkosť napätia, ktoré je použité v základnom rozvode vlastnej spotreby JE na štyroch rozvádzačoch napájaných z pracovných zdrojov vlastnej spotreby:",
+          "options": {
+            "A": "6,3 kV",
+            "B": "22 kV",
+            "C": "15,75 kV",
+            "D": "0,4 kV"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 13,
+          "question": "Zariadenie označené na elektrickej schéme JE je:",
+          "options": {
+            "A": "rezervný transformátor vlastnej spotreby",
+            "B": "blokový transformátor",
+            "C": "pracovný transformátor vlastnej spotreby",
+            "D": "transformátor 6/0,4 kV"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 14,
+          "question": "V schéme vlastnej spotreby sú vytvorené „systémy zaisteného napájania“. Určite koľko systémov v schéme vlastnej spotreby je:",
+          "options": {
+            "A": "3 systémy",
+            "B": "1 systém",
+            "C": "2 systémy",
+            "D": "4 systémy",
+            "E": "5 systémov"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 15,
+          "question": "Určite, ktoré zo zariadení označených na elektrickej schéme JE plní funkciu núdzového zdroja II. kategórie zaisteného napájania:",
+          "options": {
+            "A": "5",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 16,
+          "question": "V rámci II. kategórie zaisteného napájania je realizovaná „automatika postupného spúšťania“ APS. Uveďte čo je jej hlavnou úlohou:",
+          "options": {
+            "A": "postupné zaťažovanie pripojeného dieselgenerátora",
+            "B": "postupné spustenie havarijných čerpadiel podľa momentálnej potreby",
+            "C": "stanovenie postupu otvárania armatúr na výtlaku havarijných čerpadiel",
+            "D": "postupné zvyšovanie otáčok spusteného dieselgenerátora"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 17,
+          "question": "Vo vlastnej spotrebe JE sú nainštalované dieselgenerátory. Uveďte akú základnú úlohu plnia:",
+          "options": {
+            "A": "núdzový zdroj II. kategórie zaisteného napájania",
+            "B": "pracovný zdroj vlastnej spotreby",
+            "C": "rezervný zdroj vlastnej spotreby",
+            "D": "pracovný zdroj I. kategórie zaisteného napájania",
+            "E": "pracovný zdroj spoločnej vlastnej spotreby"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 18,
+          "question": "II. kategória zaisteného napájania má elektrické rozvody:",
+          "options": {
+            "A": "0,4 kV a 6,3 kV",
+            "B": "0,4 kV a 220 V=",
+            "C": "iba 6,3 kV",
+            "D": "iba 0,4 kV",
+            "E": "iba 220 V="
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 19,
+          "question": "I. kategória zaisteného napájania má elektrické rozvody:",
+          "options": {
+            "A": "0,4 kV a 220 V=",
+            "B": "0,4 kV a 6,3 kV",
+            "C": "iba 6,3 kV",
+            "D": "iba 0,4 kV",
+            "E": "iba 220 V="
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 20,
+          "question": "Vyberte pravdivé tvrdenie týkajúce sa systému Núdzového zdroja elektrickej energie NZEE:",
+          "options": {
+            "A": "NZEE je spoločný pre oba bloky EMO12 a je ho možné prepojiť s ľubovoľnou 6 kV rozvodňou ZN",
+            "B": "každý blok EMO12 disponuje vlastným NZEE",
+            "C": "DG SAM, ktorý je súčasťou NZEE, nie je možné prepojiť s II. kategóriou zaisteného napájania",
+            "D": "DG SAM, ktorý je súčasťou NZEE, je možné prepojiť s II. kategóriou zaisteného napájania len na úrovni 0,4 kV a aj to len v obmedzenej miere"
+          },
+          "correct_answer": "A"
         }
       ]
     },
@@ -279,6 +441,226 @@
             "D": "otáčkomer TG"
           },
           "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Regulačné obvody v hlavnom výrobnom bloku sú realizované predovšetkým:",
+          "options": {
+            "A": "prevádzkovou riadiacou technikou BELT a systémom Telegyr",
+            "B": "riadiacim a informačným systémom BIS",
+            "C": "na primárnom okruhu pomocou systému NOTRIK a na sekundárnom okruhu pomocou systému TRS",
+            "D": "na primárnom okruhu pomocou systému KASKÁD a na sekundárnom okruhu pomocou systému Telegyr"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 6,
+          "question": "Rozloženie neutrónového toku po výške aktívnej zóny v reaktore na JE Mochovce je kontrolované pomocou:",
+          "options": {
+            "A": "samonapájacích detektorov DPZ",
+            "B": "GM detektorov",
+            "C": "aktiváčných guličiek",
+            "D": "ionizačných komôr"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 7,
+          "question": "Systém RRCS je určený pre:",
+          "options": {
+            "A": "riadenie kaziet HRK",
+            "B": "ovládanie ventilov na trase čistého kondenzátu",
+            "C": "ovládanie ventilov na trase bórneho koncentrátu",
+            "D": "riadenie turbíny"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 8,
+          "question": "Počas prevádzky na nominálnom výkone je aparatura kontroly neutrónového toku prepnutá do:",
+          "options": {
+            "A": "pracovného lineárneho rozsahu",
+            "B": "spúšťacieho rozsahu",
+            "C": "pracovného logaritmického rozsahu",
+            "D": "do ľubovoľného z uvedených troch rozsahov"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 9,
+          "question": "Vyberte miesto, kde sa nachádzajú snímače podsystému pre výmenu paliva (SKVP) AKNP:",
+          "options": {
+            "A": "v kanáloch v suchom biologickom tienení",
+            "B": "v kanáloch vo vodnom biologickom tienení",
+            "C": "v centrálnej časti palivových kaziet",
+            "D": "v suchých kanáloch v koši aktívnej zóny"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 10,
+          "question": "Počas pracovného pohybu musí byť na pohon kazety HRK privedené napájacie napätie:",
+          "options": {
+            "A": "127 V, ~",
+            "B": "154 V, =",
+            "C": "220 V, =",
+            "D": "220 V, ~"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 11,
+          "question": "Vyberte systém alebo zariadenie SKR, ktoré má okrem iných priamu väzbu so systémom AKNP-7:",
+          "options": {
+            "A": "ALOS",
+            "B": "TCS",
+            "C": "SIAZ",
+            "D": "SIS"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 12,
+          "question": "Vyberte, ktorý stupeň automatického odstavenia reaktora vyvolá zasúvanie kaziet v skupinovom režime pracovnou rýchlosťou:",
+          "options": {
+            "A": "AO-3",
+            "B": "AO-1",
+            "C": "AO-4",
+            "D": "AO-2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 13,
+          "question": "Určite činnosť, ktorú vykonávajú ochrany turbíny:",
+          "options": {
+            "A": "zatvorenie RZV",
+            "B": "otvorenie rýchlozáverných ventilov (RZV)",
+            "C": "zatvorenie regulačných ventilov (RV) a otvorenie RZV",
+            "D": "zatvorenie RV a blokovanie zatvorenia RZV"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 14,
+          "question": "Určite ktorý výberový obvod sa používa najčastejšie pri spracovaní vstupných signálov do automatického odstavenia reaktora:",
+          "options": {
+            "A": "2 z 3",
+            "B": "1 z 3",
+            "C": "1 z 2",
+            "D": "2 z 4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 15,
+          "question": "Stanovte počet kompletov systému automatického odstavenia reaktora:",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 16,
+          "question": "Vyberte pravdivý výrok o štruktúre systému zaistenia bezpečnosti (SZB-SIS):",
+          "options": {
+            "A": "je zložený z troch systémov",
+            "B": "je zložený zo štyroch systémov",
+            "C": "je zložený z dvoch systémov",
+            "D": "je tvorený jedným systémom, ktorý je zložený z dvoch kompletov"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 17,
+          "question": "Vyberte, ktorý stupeň automatického odstavenia reaktora vyvolá súčasný pád všetkých kaziet HRK:",
+          "options": {
+            "A": "AO-1",
+            "B": "AO-3",
+            "C": "AO-4",
+            "D": "AO-2"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 18,
+          "question": "Vyberte, ktorý stupeň automatického odstavenia reaktora vyvolá pád kaziet HRK po skupinách:",
+          "options": {
+            "A": "AO-2",
+            "B": "AO-1",
+            "C": "AO-3",
+            "D": "AO-4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 19,
+          "question": "Vyberte, ktoré z uvedených zariadení nie sú ovládané signálmi SZB-SIS:",
+          "options": {
+            "A": "pohony kaziet HRK",
+            "B": "RCČ hermetickej zóny PČJE",
+            "C": "čerpadlá a armatúry havarijných systémov PČJE",
+            "D": "hlavné cirkulačné čerpadlá"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 20,
+          "question": "Názvom BIS sa označuje. Vyberte správnu odpoveď:",
+          "options": {
+            "A": "informačný systém bloku JE Mochovce",
+            "B": "celoelektrárenský informačný systém pre JE Mochovce",
+            "C": "informačný systém elektrickej časti JE Mochovce",
+            "D": "dozimetrický informačný systém JE Mochovce"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 21,
+          "question": "Určite z akých zdrojov sú napájané schémy signalizácie blokovej dozorne:",
+          "options": {
+            "A": "prvá kategória zaisteného napájania",
+            "B": "tretia kategória nezaisteného napájania",
+            "C": "druhá kategória zaisteného napájania",
+            "D": "prvá a druhá kategória zaisteného napájania"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 22,
+          "question": "Systém PAMS má výstupné prvky:",
+          "options": {
+            "A": "registračné prístroje na BD",
+            "B": "ukazovacie prístroje na SD",
+            "C": "registračné prístroje na ÚD",
+            "D": "displeje na ND"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 23,
+          "question": "Systém SIAZ má funkciu:",
+          "options": {
+            "A": "monitorovať seizmické udalosti",
+            "B": "odstaviť turbíny pri zvýšenom chvení",
+            "C": "informovať personál ND o výpadku turbín",
+            "D": "monitorovať posuny potrubí I.O."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 24,
+          "question": "SKR SAM poskytuje informácie obsluhe:",
+          "options": {
+            "A": "blokovej dozorňe",
+            "B": "núdzovej dozorňe",
+            "C": "spoločnej dozorňe",
+            "D": "núdzovej a spoločnej dozorňe"
+          },
+          "correct_answer": "A"
         }
       ]
     },
@@ -327,6 +709,215 @@
             "B": "ťažká voda",
             "C": "hliník",
             "D": "ľahká voda, kadmium"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Pri prechode látkou neutróny interagujú temer výhradne s:",
+          "options": {
+            "A": "atómovými jadrami",
+            "B": "atómovými obalmi",
+            "C": "molekulami látky ako celkom",
+            "D": "s voľnými elektrónmi látky"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 6,
+          "question": "Najlepším absorbátorom tepelných neutrónov z uvedených materiálov je:",
+          "options": {
+            "A": "kadmium, bór",
+            "B": "olovo",
+            "C": "voda, parafín",
+            "D": "hliník"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 7,
+          "question": "Jednotkou aktivity v sústave SI je:",
+          "options": {
+            "A": "Becquerel",
+            "B": "Rad",
+            "C": "Gray",
+            "D": "Sievert"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 8,
+          "question": "Absorbovaná dávka charakterizuje:",
+          "options": {
+            "A": "energetické účinky ionizujúceho žiarenia v látke",
+            "B": "ionizačné účinky ionizujúceho žiarenia v látke",
+            "C": "biologické účinky ionizujúceho žiarenia v látke",
+            "D": "chemické účinky ionizujúceho žiarenia v látke"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 9,
+          "question": "Jednotkou efektívnej dávky v sústave SI je:",
+          "options": {
+            "A": "Sievert",
+            "B": "Gray",
+            "C": "Becquerel",
+            "D": "MeV"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 10,
+          "question": "Biologické účinky ionizujúceho žiarenia najlepšie charakterizuje veličina:",
+          "options": {
+            "A": "efektívna dávka",
+            "B": "kerma",
+            "C": "expozícia",
+            "D": "aktivita"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 11,
+          "question": "Pojem úväzok dávky sa používa v súvislosti s:",
+          "options": {
+            "A": "vnútornou kontamináciou",
+            "B": "alfa žiarením",
+            "C": "povrchovou kontamináciou",
+            "D": "prepočtom dávky na dávkový ekvivalent"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 12,
+          "question": "Pre deterministické účinky ionizujúceho žiarenia platí:",
+          "options": {
+            "A": "majú prah a so vzrastajúcou dávkou rastie závažnosť účinku resp. intenzita jeho prejavu",
+            "B": "sú bezprahové, t.j. každá nenulová dávka je spojená s určitou pravdepodobnosťou ich výskytu",
+            "C": "sú neodlíšiteľné od spontánnych ochorení a ich prvotná príčina spočíva v zmene genetickej informácie",
+            "D": "sú bezprahové a so vzrastajúcou dávkou rastie pravdepodobnosť ich výskytu"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 13,
+          "question": "Pre stochastické (pravdepodobnostné) účinky ionizujúceho žiarenia platí:",
+          "options": {
+            "A": "sú bezprahové, t.j. každá nenulová dávka je spojená s určitou pravdepodobnosťou ich výskytu",
+            "B": "sú prahové a so vzrastajúcou dávkou rastie pravdepodobnosť ich výskytu",
+            "C": "sú odlíšiteľné od spontánnych ochorení a ich prvotná príčina spočíva v zmene genetickej informácie",
+            "D": "majú prah a so vzrastajúcou dávkou rastie závažnosť účinku resp. intenzita jeho prejavu"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 14,
+          "question": "Podľa charakteru poskytovanej informácie alebo signálu delíme detektory ionizujúceho žiarenia na:",
+          "options": {
+            "A": "kontinuálne, integrálne",
+            "B": "plynové, tuhé, kvapalinové",
+            "C": "spektrometrické, nespektrometrické",
+            "D": "ionizačné, scintilačné, polovodičové, stopové, atď."
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 15,
+          "question": "Ionizačné komory patria do skupiny detektorov:",
+          "options": {
+            "A": "plynových",
+            "B": "spektrometrických",
+            "C": "scintilačných",
+            "D": "polovodičových"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 16,
+          "question": "Obvyklá doba platnosti R príkazu a hodnota dovolenej efektívnej dávky je:",
+          "options": {
+            "A": "24 hodín, do 1 mSv",
+            "B": "1 deň, do 50 mSv",
+            "C": "1 mesiac, do 50 mSv",
+            "D": "1/4 roka, do 30 mSv"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 17,
+          "question": "Centralizovaný systém radiačnej kontroly v JE Mochovce tvorí počítačovú nadstavbu pôvodného monitorovacieho systému:",
+          "options": {
+            "A": "SEJVAL",
+            "B": "CALDOS",
+            "C": "SUGAN",
+            "D": "URÁN"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 18,
+          "question": "Meranie dávkových príkonov v prevádzkových priestoroch a v areáli JE patrí do:",
+          "options": {
+            "A": "RK pracovného prostredia",
+            "B": "RK technológie",
+            "C": "RK výpusti",
+            "D": "RK okolia"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 19,
+          "question": "Technologická RK na primárnom okruhu sa vykonáva s cieľom monitorovať:",
+          "options": {
+            "A": "stav pokrytia paliva",
+            "B": "funkčnosť oboch vetví ŠOV-1",
+            "C": "technický stav palivovej tablety",
+            "D": "stav pokrytia nerezovej výstelky potrubia PO"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 20,
+          "question": "Technologická RK na sekundárnom okruhu sa vykonáva s cieľom monitorovať:",
+          "options": {
+            "A": "stav tesnosti parogenerátorov",
+            "B": "funkčnosť na oboch vetví ŠOV-3",
+            "C": "stav pokrytia paliva",
+            "D": "stav tesnosti sekundárneho okruhu"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 21,
+          "question": "Predmety, ktoré sa vynášajú z kontrolovaného pásma majú byť dekontaminované na najnižšie dosiahnuteľné hodnoty, ktorá musí byť menšia ako:",
+          "options": {
+            "A": "0,4 Bq/cm²",
+            "B": "40 Bq/cm²",
+            "C": "4 Bq/cm²",
+            "D": "1 Bq/cm²"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 22,
+          "question": "Vnútorný havarijný plán SE EMO12 klasifikuje mimoriadne udalosti na JE v:",
+          "options": {
+            "A": "3. stupňoch",
+            "B": "15. stupňoch",
+            "C": "4. stupňoch",
+            "D": "7. stupňoch"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 23,
+          "question": "Rozhodnutia o prijatí ochranných opatrení na území JZ pri vyhlásení Núdzového stavu na území JZ vydáva:",
+          "options": {
+            "A": "ZI, resp. vedúci Havarijnej komisie",
+            "B": "vedúci havarijného plánovania a životného prostredia",
+            "C": "veliteľ hasičského zásahu",
+            "D": "vedúci odboru bezpečnosti"
           },
           "correct_answer": "A"
         }
