@@ -1,0 +1,375 @@
+{
+  "chapters": [
+    {
+      "chapter_id": "1.3",
+      "chapter_title": "Sekundárna časť JE",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Turbína typ ŠKODA 250MW je:",
+          "options": {
+            "A": "trojelesová, s dvojprúdovým usporiadaním VT časti i oboch NT častí",
+            "B": "trojelesová s jednoproudovým usporiadaním VT časti a dvojprúdovým usporiadaním NT časti",
+            "C": "dvojetelesová s dvojprúdovým usporiadaním VT aj NT časti",
+            "D": "trojelesová s dvojprúdovým usporiadaním dvoch VT častí i jednej NT časti"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Turbína typ ŠKODA 250MW má:",
+          "options": {
+            "A": "8 neregulovaných odberov pary",
+            "B": "7 neregulovaných odberov pary",
+            "C": "8 regulovaných odberov pary",
+            "D": "7 regulovaných odberov pary"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Natáčacie zariadenie TG slúži na:",
+          "options": {
+            "A": "otáčanie rotora pri odstavení TG za účelom rovnomerného ochladzovania rotora a roztočenie rotora pred vpustením pary do turbíny",
+            "B": "pootočenie rotora pri jeho kontrole",
+            "C": "otáčanie rotora pri nahrievaní turbíny pred nábehom",
+            "D": "natočenie statora VT dielu TG"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "Upchávky VT dielu turbíny sú počas nominálnej prevádzky:",
+          "options": {
+            "A": "odsávané do NTO 2",
+            "B": "zahlcované parou z pomocnej kotolne",
+            "C": "zahlcované kondenzátom",
+            "D": "zahlcované parou z kolektora 0,7 MPa"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Upchávky NT dielov turbíny a upchávky NT regulačných a rýchlozáverných klapiek sú:",
+          "options": {
+            "A": "trvalo zahlcované parou z kolektora 0,7 MPa",
+            "B": "zahlcované parou z HPK",
+            "C": "odsávané do NTO 2",
+            "D": "odsávané do EPK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 6,
+          "question": "Turbína Škoda 250MW má reguláciu:",
+          "options": {
+            "A": "škrtením pomocou regulačných ventilov",
+            "B": "regulačným stupňom turbíny",
+            "C": "škrtením pary na rýchlozáverných ventiloch",
+            "D": "zmenou tlaku pary v HPK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 7,
+          "question": "Jedna turbína má:",
+          "options": {
+            "A": "dva rýchlozáverné ventily",
+            "B": "jeden rýchlozáverný ventil",
+            "C": "tri rýchlozáverné ventily",
+            "D": "štyri rýchlozáverné ventily"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 8,
+          "question": "Rýchlozáverná a záchytná klapka TG sú osadené:",
+          "options": {
+            "A": "na vstupoch do NT dielov TG",
+            "B": "na vstupoch do VT dielu TG",
+            "C": "na výstupoch z NT dielov TG",
+            "D": "na výstupoch z NTO"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_id": "1.2",
+      "chapter_title": "Primárna časť JE",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Medzi vnútroreaktorové časti nepatrí:",
+          "options": {
+            "A": "horný blok",
+            "B": "dno šachty reaktora",
+            "C": "šachta reaktora",
+            "D": "blok ochranných rúr"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Tepelný výkon reaktora VVER-440 typ V-213 je:",
+          "options": {
+            "A": "1471 MWt",
+            "B": "3500 MWt",
+            "C": "1735 MWt",
+            "D": "3000 MWt"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Pracovný tlak v primárnom okruhu je približne:",
+          "options": {
+            "A": "12,3 MPa",
+            "B": "8,3 MPa",
+            "C": "15,6 MPa",
+            "D": "10,8 MPa"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "V aktívnej zóne reaktora sa počas nominálnej prevádzky bloku nachádza:",
+          "options": {
+            "A": "312 pracovných palivových kaziet a 37 kaziet HRK",
+            "B": "310 pracovných palivových kaziet a 36 kaziet HRK",
+            "C": "210 pracovných palivových kaziet a 49 kaziet HRK",
+            "D": "210 pracovných palivových kaziet a 36 kaziet HRK",
+            "E": "224 pracovných palivových kaziet a 42 kaziet HRK"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Počas nominálnej prevádzky je reaktor zaplnený chladivom:",
+          "options": {
+            "A": "po snímače ukazovateľov polohy kaziet HRK",
+            "B": "po horný okraj koša aktívnej zóny",
+            "C": "po horný okraj horúcich nátrubkov tlakovej nádoby reaktora",
+            "D": "po hlavnú deliacu rovinu reaktora",
+            "E": "po spodný okraj puzdra pohonov HRK"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_id": "1.4",
+      "chapter_title": "Elektrická časť JE",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Určite, v ktorých úsekoch schémy vyvedenia výkonu z JE sú použité tzv. „zapuzdrené vodiče“:",
+          "options": {
+            "A": "medzi generátorom a blokovým transformátorom",
+            "B": "medzi blokovým transformátorom a vývodovým odpojovačom",
+            "C": "medzi vývodovým odpojovačmi",
+            "D": "medzi blokovými transformátormi"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Určite, ktoré zo zariadení označených na schéme je blokový transformátor:",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Z miest, označených na schéme vyvedenia výkonu z JE, určite to, kde je použité napätie 15,75 kV:",
+          "options": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "Určite, čo je hlavnou úlohou blokového transformátora v schéme vyvedenia výkonu z JE za nominálnej prevádzky bloku:",
+          "options": {
+            "A": "úprava napätia vo vývode na hodnotu vhodnú pre prenášanie veľkého výkonu",
+            "B": "napájanie vlastnej spotreby",
+            "C": "zvyšovanie elektrického výkonu vo vývode",
+            "D": "prispôsobovanie frekvencie na vývode generátora frekvencii v elektrizačnej sústave"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 5,
+          "question": "Na vyvedenie výkonu z JE do elektrizačnej sústavy je pre EMO12 použité napätie:",
+          "options": {
+            "A": "400 kV",
+            "B": "6 kV",
+            "C": "110 kV",
+            "D": "220 kV"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 6,
+          "question": "Straty vo vinutiach a magnetickom obvode generátora sa navonok prejavujú:",
+          "options": {
+            "A": "oteplením generátora",
+            "B": "zvýšením výstupného prúdu generátora",
+            "C": "kolísaním napätia na výstupe generátora",
+            "D": "znížením frekvencie na výstupe generátora",
+            "E": "spätným tokom výkonu do generátora"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_id": "1.5",
+      "chapter_title": "Systém kontroly a riadenia",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Určite, ktorý regulátor sa používa pre stabilizovanie výkonu reaktora V-213:",
+          "options": {
+            "A": "ARM-5S01",
+            "B": "TCS",
+            "C": "ROM-2S01",
+            "D": "BELT"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Určite, ktorá z funkcií sa nevykonáva v ARM-5S01:",
+          "options": {
+            "A": "zníženie výkonu reaktora podľa počtu vypadnutých HCČ",
+            "B": "stabilizácia neutrónového výkonu so zadanou citlivosťou",
+            "C": "stabilizácia tlaku pary v HPK so zadanou necitlivosťou",
+            "D": "nezvyšovanie výkonu reaktora, ak pôsobí AO-4"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Systém TCS reguluje turbínu nastavením:",
+          "options": {
+            "A": "regulačných ventilov a klapiek na prívode ostrej pary",
+            "B": "sklonu lopatiek na turbíne",
+            "C": "regulačných ventilov a klapiek na odvode využitej pary",
+            "D": "ventilov na chladiacej vode pre nastavenie podtlaku v hlavnom kondenzátore"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "Zariadenie TCS je zložené z viacerých častí. Určte, čo neobsahuje TCS:",
+          "options": {
+            "A": "regulátor ENČ",
+            "B": "regulátor výkonu TG",
+            "C": "regulátor PSK",
+            "D": "otáčkomer TG"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_id": "1.6",
+      "chapter_title": "Radiačná ochrana",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Určite druh ionizujúceho žiarenia, ktorý pri prechode cez látkové prostredie ionizuje atómy tohto prostredia priamo (je nositeľom elektrického náboja):",
+          "options": {
+            "A": "elektróny",
+            "B": "neutrína",
+            "C": "neutróny",
+            "D": "fotóny"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Dobeh alfa častíc emitovaných pri alfa premenách rádioaktívnych nuklidov je v biologickom tkanive približne:",
+          "options": {
+            "A": "desiatky mikrometrov",
+            "B": "desiatky centimetrov",
+            "C": "desiatky milimetrov",
+            "D": "desiatky decimetrov"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Beta žiarenie je tvorené:",
+          "options": {
+            "A": "elektrónmi a pozitrónmi",
+            "B": "protónmi a neutrónmi",
+            "C": "nukleónmi",
+            "D": "fotónmi a neutrónmi"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 4,
+          "question": "Ako tieniaci materiál pred gama žiarením sa používa:",
+          "options": {
+            "A": "olovo",
+            "B": "ťažká voda",
+            "C": "hliník",
+            "D": "ľahká voda, kadmium"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "chapter_id": "1.8",
+      "chapter_title": "Prevádzka JE",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Vyberte definíciu normálneho prevádzkového režimu č.1:",
+          "options": {
+            "A": "prevádzka na výkone",
+            "B": "vyvezenie aktívnej zóny",
+            "C": "odstavenie s dochladením",
+            "D": "odstavenie bez dochladenia"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 2,
+          "question": "Pokles tlaku v hlavnom parnom kolektore má za následok:",
+          "options": {
+            "A": "pokles strednej teploty primárneho okruhu, vnos kladnej reaktivity a zvýšenie výkonu reaktora",
+            "B": "pokles strednej teploty primárneho okruhu, vnos zápornej reaktivity a zníženie výkonu reaktora",
+            "C": "nárast strednej teploty primárneho okruhu, vnos kladnej reaktivity a zvýšenie výkonu reaktora",
+            "D": "nárast strednej teploty primárneho okruhu, vnos zápornej reaktivity a zníženie výkonu reaktora"
+          },
+          "correct_answer": "A"
+        },
+        {
+          "number": 3,
+          "question": "Odvod tepla z aktívnej zóny reaktora v režime prirodzenej cirkulácie je možný vďaka:",
+          "options": {
+            "A": "rôznej merné hmotnosti (hustote) chladiva pri rôznej teplote a výškovému rozdielu medzi aktívnou zónou reaktora a parogenerátorom",
+            "B": "práci pomocných cirkulačných čerpadiel (PCČ), ktoré nabehnú od výpadku hlavných cirkulačných čerpadiel (HCČ)",
+            "C": "zatvoreným hlavným uzatváracím armatúram (HUA) na horúcich častiach slučiek I.O.",
+            "D": "práci havarijných systémov chladenia AZ reaktora"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    }
+  ]
+}
